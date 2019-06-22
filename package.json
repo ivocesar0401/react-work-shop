@@ -1,0 +1,22 @@
+{
+  "name": "react-work-shop",
+  "version": "1.0.0",
+  "description": "reactive-work-shop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivocesar0401/react-work-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivocesar0401/react-work-shop/issues"
+  },
+  "homepage": "https://github.com/ivocesar0401/react-work-shop#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
